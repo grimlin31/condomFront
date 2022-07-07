@@ -1,0 +1,22 @@
+html, body{
+    height: 100%;
+    margin: 0;
+}
+
+.background-settings {
+    background-image: url("https://www.nocnok.com/hubfs/regimen-propiedad-condominio.jpg");
+    background-size: cover;
+    height: 100%;
+}
+  
+.box {
+    height: 100%;
+    display:flex;
+    justify-content:center;
+    align-items:center;
+}
+
+.size-iframe {
+    height: "50%";
+    width: "50%"
+}
